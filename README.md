@@ -1,1 +1,1 @@
-demo [https://ualexk.github.io/numbers-and-symbols-typing-test/](https://github.com/uAIex/numbers-and-symbols-typing-test/deployments/github-pages)
+demo [[https://ualexk.github.io/numbers-and-symbols-typing-test/](https://github.com/uAIex/numbers-and-symbols-typing-test/deployments/github-pages)](https://uaiex.github.io/numbers-and-symbols-typing-test/)
